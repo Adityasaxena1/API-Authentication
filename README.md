@@ -1,6 +1,6 @@
-API-Authentication
+API-Authentication;
 
-No Authentication
-Basic Authentication
-API Key Authorisation
-Token Based Authentication
+No Authentication;
+Basic Authentication;
+API Key Authorisation;
+Token Based Authentication;
